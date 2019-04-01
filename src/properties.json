@@ -1,0 +1,10 @@
+{
+    "client_id":"l6i5kFjgcRMQqhx70f8IMqOgpGCSFh1Kwyd24fwp",
+    "client_secret": "wINsnOmfmKPLMHSsSiXvJjCkTn6PI4aSLLeaajlrm4NSlh4evskjgKJLOgRoSbV7ioXL7rwDGITHiNZCo73ijQtOxlgFuA5OxlIqPL6EWFuUQfpgT6DiQZj57atJj2gL",
+    "redirect_uri":"http://localhost:3000/patient-data",
+    "tokenUrl":"https://sandbox.bluebutton.cms.gov/v1/o/token/",
+    "patient_id": "https://sandbox.bluebutton.cms.gov/v1/fhir/Patient",
+    "patient_details":"https://sandbox.bluebutton.cms.gov/v1/fhir/Patient/?id=",
+    "coverage":"https://sandbox.bluebutton.cms.gov/v1/fhir/Coverage/?patient=",
+    "explanationofbenefit":"https://sandbox.bluebutton.cms.gov/v1/fhir/ExplanationOfBenefit/?patient="
+}
